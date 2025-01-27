@@ -3,7 +3,7 @@
 // Функція повинна повернути новий масив, що містить лише ті рядки, довжина яких не перевищує maxLength.
 
 
-// // Перевірка:
+//  Перевірка:
 // console.log(filterByLength(["apple", "banana", "cherry", "fig"], 5)); // ["apple", "fig"]
 // console.log(filterByLength(["JavaScript", "HTML", "CSS"], 3)); // ["CSS"]
 // console.log(filterByLength([], 4)); // []

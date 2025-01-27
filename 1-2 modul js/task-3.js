@@ -2,7 +2,7 @@
 // Напиши функцію filterEvenNumbers(numbers), яка приймає масив чисел numbers і повертає новий масив тільки з парних чисел.
 
 
-// // Перевірка:
+//  Перевірка:
 // console.log(filterEvenNumbers([1, 2, 3, 4, 5, 6])); // [2, 4, 6]
 // console.log(filterEvenNumbers([7, 11, 15, 18, 22])); // [18, 22]
 // console.log(filterEvenNumbers([3, 5, 7])); // []
